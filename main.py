@@ -49,6 +49,8 @@ def txt_replace(text):
         temp_t += "\n" * 2 + "}" + "\n" * 2
 
         return temp_t
+    else:
+        return ""
 
 
 def gherkin_to_java():
