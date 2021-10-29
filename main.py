@@ -1,6 +1,5 @@
 import re
 import easygui
-from pip._vendor.distlib.compat import raw_input
 
 
 def txt_replace(text):
